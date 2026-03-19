@@ -1,0 +1,28 @@
+.case-finding {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.case-finding h1 {
+  color: #333;
+}
+
+.case-finding p {
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.case-finding button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.case-finding button:hover {
+  background-color: #0056b3;
+}
