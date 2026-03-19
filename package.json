@@ -1,0 +1,1 @@
+{\n  "name": "lex-study",\n  "version": "1.0.0",\n  "description": "A case-finding JavaScript web application",\n  "main": "app.js",\n  "scripts": {\n    "start": "http-server ."\n  },\n  "keywords": ["web", "javascript", "case-finding"],\n  "author": "Anisha300",\n  "license": "ISC"\n}
